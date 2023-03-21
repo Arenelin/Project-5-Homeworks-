@@ -39,3 +39,15 @@ body{
 
 //==================== БЛОК HEAD=================//
 
+//================ БЛОК SECTION-IMAGE===================//
+
+.section-image {
+   background-color: #fff;
+   padding: 10px;
+   margin: 0px 0px 97px 0px;
+   & img{
+      max-width: 100%;
+   }
+}
+
+//================ БЛОК SECTION-IMAGE===================//
